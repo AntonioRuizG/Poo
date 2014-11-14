@@ -1,0 +1,3 @@
+Nave_Aliada	imagenes/nave_Aliada.png
+Nave_A	imagenes/nave_A.png
+Nave_B	imagenes/nave_B.png
